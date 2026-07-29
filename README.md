@@ -2,7 +2,9 @@
 <div align="center">
   <!-- LeetCode Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="140" />
-  <img src="https://github.com/shriram-02/shriram-02/blob/main/LeetCode%20Daily%20coin.gif?raw=true" width="140" />
+  
+  <img src="https://raw.githubusercontent.com/shriram-02/shriram-02/main/LeetCode%20Daily%20coin.gif" alt="LeetCode Daily Coin" width="140" />
+</div>
 
   <h1>🏆 LeetCode Problem of the Day Solutions</h1>
 </div>
