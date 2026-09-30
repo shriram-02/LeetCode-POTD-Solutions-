@@ -98,10 +98,8 @@ Each solution aims to provide:
 ---
 
 ### 🔝 Top Contributed Repo
-[](https://github-contributor-stats.vercel.app/api?username=Yashwant330&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake.svg">
+</picture>
